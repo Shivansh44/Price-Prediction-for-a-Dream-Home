@@ -1,0 +1,2 @@
+# Price-Prediction-for-a-Dream-Home
+Price Prediction for a Dream Home Project for Foxmula by Shivansh Sharma. Technologies Used- Linear Regression and Gradient Boosting Regressor. Accuracy achieved- 91.9%. Used a dataset that consists of information about the location of the house, price and other aspects such as square feet, number of bedrooms, bathrooms etc. The main objective of this project is to make a model which can give us a good prediction of the price of the house based on other variables. 
